@@ -10,3 +10,7 @@ To start, you need the Arduino IDE with dependencies installed. Hardware setup i
 
 ## More information
 This repository is part of article "Abwägungssache" from German computer magazine "c't". Link: ct.de/yj2t
+
+##Known issues
+* no reconnect after WiFi connection getting lost.
+* weight not rounded
